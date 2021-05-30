@@ -1,0 +1,1 @@
+enum CameraActivity {cameraAble, cameraDisable}

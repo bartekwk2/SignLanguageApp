@@ -1,0 +1,1 @@
+enum AuthFunction {login, register, googleAuth, currentUser}

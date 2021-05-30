@@ -1,0 +1,10 @@
+{
+    "statusCode": 200,
+    "result":{
+        "id" : "12354",
+        "email" : "bartekwk@wp.pl",
+        "name" : "Bartek",
+        "phone" : 124563344,
+        "age" : 34
+    }
+}
